@@ -3149,7 +3149,7 @@ function pop(s1,s2,s3){
 
 	<div class="container">
 
-  <form  method="post" action="loged.php">
+  <form  method="post" action="frameset.php">
 
   
 
